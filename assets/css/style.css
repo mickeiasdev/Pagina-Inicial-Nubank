@@ -91,7 +91,7 @@ body {
 
 .start {
     height: 860px;
-    background-image: url(/assets/img/img1.png);
+    background-image: url(assets/img/img1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -236,7 +236,7 @@ body {
 
 .helpUserContainer {
     height: 860px;
-    background-image: url(/assets/img/img5.png);
+    background-image: url(assets/img/img5.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -256,7 +256,7 @@ body {
 
 .NuCommunityContainer {
     height: 860px;
-    background-image: url(/assets/img/img6.png);
+    background-image: url(assets/img/img6.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -274,7 +274,7 @@ body {
 
 .InfoForUserContainer {
     height: 860px;
-    background-image: url(/assets/img/img7.png);
+    background-image: url(assets/img/img7.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;

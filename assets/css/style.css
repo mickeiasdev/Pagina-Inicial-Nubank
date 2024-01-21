@@ -91,7 +91,7 @@ body {
 
 .start {
     height: 860px;
-    background-image: url(./img/img1.png);
+    background-image: url(../img/img1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -256,7 +256,7 @@ body {
 
 .NuCommunityContainer {
     height: 860px;
-    background-image: url(../assets/img/img6.png);
+    background-image: url(../img/img6.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;

@@ -1,6 +1,7 @@
 # Pagina-Inicial-Nubank
 
-Pagina inicial antiga Nubank, estudo CSS - Em breve p/ mobile, para estudar responsividade.
+Página inicial antiga Nubank, estudo CSS - Em breve p/ mobile, para estudar responsividade.
+(As imgs no git estão com alguns cortes, por conta que tive que cortar as img de amostra pra vocês.)
 
 ![image](https://github.com/mickeiasdev/Pagina-Inicial-Nubank/assets/130601846/fb7a5956-37d9-47ee-99a0-2755df6c90d2)
 ![image](https://github.com/mickeiasdev/Pagina-Inicial-Nubank/assets/130601846/1d5ba004-94c7-4a08-a7e8-1dc51d23fee6)
